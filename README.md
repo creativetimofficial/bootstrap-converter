@@ -6,11 +6,11 @@
 
 ## Get started:
 1. Download zip
-* Unarchive zip
-* Open comand line and go to project folder:
-* run: `cd path/to/converter-bs3-to-bs4`
-* run: `npm install`
-* Put your html files in html folder
+2. Unarchive zip
+3. Open comand line and go to project folder:
+4. run: `cd path/to/converter-bs3-to-bs4`
+5. run: `npm install`
+6. Put your html files in html folder
   - ex:
     - my-project
       - index.html
@@ -18,7 +18,7 @@
         - page1.html
         - page2.html
       - ...
-* run: `gulp converter`
-* In the **build** folder you will find the bootstrap 4 code
+7. run: `gulp converter`
+8. In the **build** folder you will find the bootstrap 4 code
 
 See the changed elements in **Bootstrap 3 to Bootstrap 4 - elements (beta)** file
