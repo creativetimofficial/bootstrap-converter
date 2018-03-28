@@ -21,4 +21,4 @@
 5. run: `gulp converter`
 6. In the **build** folder you will find the bootstrap 4 code
 
-See the changed elements in `Bootstrap 3 to Bootstrap 4 - elements (beta).html` file
+![Alt text](img/bs3tobs4.png?raw=true "Title")
